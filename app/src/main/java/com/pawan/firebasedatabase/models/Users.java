@@ -1,4 +1,4 @@
-package com.pawan.firebasedatabase;
+package com.pawan.firebasedatabase.models;
 
 public class Users {
 
